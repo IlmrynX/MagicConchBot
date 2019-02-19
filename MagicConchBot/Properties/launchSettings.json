@@ -1,7 +1,14 @@
 {
   "profiles": {
     "MagicConchBot": {
-      "commandName": "Project"
+      "commandName": "Project",
+      "environmentVariables": {
+        "GOOGLE_API_KEY": "AIzaSyDzSQCAkqa_bDi6-jccxnC03qIVtN75mCo",
+        "SOUNDCLOUD_CLIENTSECRET": "SesqgZ3B1KMiWEBKLfJ82o1G8iU0my5Y",
+        "DISCORD_TOKEN": "Mjk1MDIwMTY3NzMyMzk2MDMy.D0zP_g.81zc4OCD-tEloE0cQ0r3dUx9lFY",
+        "DISCORD_BOT_OWNER": "149639766382608384",
+        "SOUNDCLOUD_CLIENTID": "S1qCBZdFEVTemuSZYvUxs7iQODE0OdLI"
+      }
     }
   }
 }
